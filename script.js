@@ -84,7 +84,7 @@ function createTweenScrubber(tween, seekSpeed) {
 }
 
 function createTextAnimation() {
-  var geometry = generateTextGeometry('PIECE BY PIECE', {
+  var geometry = generateTextGeometry('Phạm Thành Nam', {
     size:14,
     height:0,
     font:'droid sans',
